@@ -88,12 +88,12 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "yren50@fordham.edu"
+email = "yi.wang.yw734@yale.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "140 W 62nd St", city = "New York", region = "NY", postcode = "10023", country = "United States", country_code = "US"}
+address = {street = "165 Whitney Ave", city = "New Haven", region = "CT", postcode = "06511", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -270,7 +270,7 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "UA-156682736-1"
+  google_analytics = "G-Q5D9HHMT66"
   google_tag_manager = ""
 
 ############################
