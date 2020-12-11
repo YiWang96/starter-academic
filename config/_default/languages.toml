@@ -11,9 +11,9 @@
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-  title = "任奕帆的个人主页"
+  title = "王易的个人主页"
   [zh.params]
-    description = "任奕帆的个人主页"
+    description = "王易的个人主页"
   [[zh.menu.main]]
     name = "简介"
     url = "#about"
