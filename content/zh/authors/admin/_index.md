@@ -1,41 +1,37 @@
 ---
-title: 任奕帆
-role: 硕士研究生 (博士项目申请中)
+title: 王易
+role: 国际金融中心研究助理
 avatar_filename: ""
 bio: Breaking Boundaries
 interests:
-  - 社交媒体与网络社区
-  - 电子游戏
   - 金融科技
+  - 实证资产定价
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto: yren50@fordham.edu"
+    link: "mailto: yi.wang.yw734@yale.edu"
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/yifanren01/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=L2MXOFAAAAAJ
+    link: https://www.linkedin.com/in/yi-wangnyu/
   - icon: github
     icon_pack: fab
-    link: https://github.com/fanrenaz
+    link: https://github.com/YiWang96
 organizations:
-  - name: 福特汉姆大学
-    url: https://www.fordham.edu/
+  - name: 耶鲁大学管理学院
+    url: https://som.yale.edu/
 education:
   courses:
-    - course: 硕士, 商业分析
-      institution: 福特汉姆大学
+    - course: 理学硕士, 金融工程专业
+      institution: 纽约大学
       year: 2020
-    - course: 学士, 人文科学实验班
+    - course: 经济学学士, 金融学专业
       institution: 武汉大学
-      year: 2019
-email: yren50@fordham.edu
+      year: 2018
+email: yi.wang.yw734@yale.edu
 superuser: true
 user_groups:
   - Researchers
   - Visitors
-highlight_name: false
+highlight_name: true
 ---
-任奕帆是福特汉姆大学的一名商业分析硕士项目学生。他的研究兴趣集中在利用例如机器学习，文本挖掘和网络分析的技术方法，同时与计量经济模型结合，探索社交媒体，网络社区，电子游戏，和金融科技等领域。他曾与多位教授一起工作，并从中得到了研究经验以及学术训练。
+王易，现于耶鲁大学管理学院国际金融中心担任研究助理一职。她在纽约大学和武汉大学分别取得了硕士与学士学位。她对金融科技和实证资产定价领域的研究有着浓厚的兴趣。目前，她主要与William Goetzmann, Alexander Zentefis, and Song Ma三位教授一起工作，并从中获得了技能和知识的提升。王易将会申请2022年球季入学的博士研究生项目。
