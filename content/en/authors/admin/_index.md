@@ -1,41 +1,37 @@
 ---
-title: Yifan Ren
-role: Graduate Student (Applying Ph.D. programs in MIS)
+title: Yi Wang
+role: Pre-Doctoral Research Aossciate at ICF
 avatar_filename: ""
-bio: Breaking Boundaries
+bio: 
 interests:
-  - Sodial Media/Web Community
-  - Gaming
   - FinTech
+  - Empirical Asset Pricing
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto: yren50@fordham.edu"
+    link: "mailto: yi.wang.yw734@yale.edu"
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/yifanren01/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=L2MXOFAAAAAJ
+    link: https://www.linkedin.com/in/yi-wangnyu
   - icon: github
     icon_pack: fab
-    link: https://github.com/fanrenaz
+    link: https://github.com/YiWang96
 organizations:
-  - name: Fordham University
-    url: https://www.fordham.edu/
+  - name: Yale School of Management
+    url: https://som.yale.edu/
 education:
   courses:
-    - course: MSc in Business Analytics
-      institution: Fordham University
+    - course: MSc in Financial Engineering
+      institution: New York University
       year: 2020
-    - course: Bachelor's Degree, Experimental Class of Humanities Sciences
+    - course: BEcon in Finance
       institution: Wuhan University
-      year: 2019
-email: yren50@fordham.edu
+      year: 2018
+email: yi.wang.yw734@yale.edu
 superuser: true
 user_groups:
   - Researchers
   - Visitors
-highlight_name: false
+highlight_name: true
 ---
-Yifan Ren is an MSBA graduate student at Fordham University. His research interests include Social Media/Web Community, Gaming, and FinTech, through technical methodologies such as machine learning, text mining, and network analysis, as well as a combination with econometrics. He worked with multiple professors for different projects, from which he obtained research experience and training.
+Yi Wang is a pre-doctoral research associate at International Center for Finance in Yale School of Management. She received her master's degree from New York University and bachelor's degree from Wuhan University. She have strong interests in FinTech and Empirical Asset Pricing. Currently, she is working with Professors William Goetzmann, Alexander Zentefis, and Song Ma, from who she learned lots of knowledge and skills. Yi Wang will apply for Ph.D. programs staring from Fall 2022.
