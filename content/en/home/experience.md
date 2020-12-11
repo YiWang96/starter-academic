@@ -19,19 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Assistant"
-  company = "Fordham University"
-  company_url = "https://www.fordham.edu"
-  location = "New York"
-  date_start = "2019-09-01"
-  date_end = ""
+  company = "Wuhan University"
+  company_url = "https://www.whu.edu"
+  location = "Wuhan"
+  date_start = "2016-12-01"
+  date_end = "2018-07-01"
 
 
 [[experience]]
-  title = "Product & Data Analyst Intern"
-  company = "Bytedance Ltd."
-  company_url = "https://www.bytedance.com/en/"
-  location = "Beijing"
-  date_start = "2019-04-01"
-  date_end = "2019-07-01"
+  title = "Research Assistant"
+  company = "New York University"
+  company_url = "https://www.nyu.edu"
+  location = "New York"
+  date_start = "2019--10-01"
+  date_end = "2020-01-01"
 
 +++
