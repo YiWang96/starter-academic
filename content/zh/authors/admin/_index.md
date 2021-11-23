@@ -1,11 +1,10 @@
 ---
 title: 王易
-role: 国际金融中心研究助理
+role: 博士预备研究助理
 avatar_filename: ""
 bio: Breaking Boundaries
 interests:
   - 金融科技
-  - 实证资产定价
 social:
   - icon: envelope
     icon_pack: fas
@@ -34,4 +33,4 @@ user_groups:
   - Visitors
 highlight_name: true
 ---
-王易，现于耶鲁大学管理学院国际金融中心担任研究助理一职。她在纽约大学和武汉大学分别取得了硕士与学士学位。她对金融科技和实证资产定价领域的研究有着浓厚的兴趣。目前，她主要与William Goetzmann, Alexander Zentefis, and Song Ma三位教授一起工作，并从中获得了技能和知识的提升。王易将会申请2022年球季入学的博士研究生项目。
+王易，现于耶鲁大学管理学院担任研究助理一职。她在纽约大学和武汉大学分别取得了硕士与学士学位。她对金融科技领域的研究有着浓厚的兴趣。王易将会申请2022年秋季入学的博士研究生项目。
