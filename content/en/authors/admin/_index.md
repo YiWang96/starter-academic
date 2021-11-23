@@ -1,11 +1,10 @@
 ---
 title: Yi Wang
-role: Pre-Doctoral Research Aossciate at ICF
+role: Pre-Doctoral Research Aossciate
 avatar_filename: ""
 bio: 
 interests:
   - FinTech
-  - Empirical Asset Pricing
 social:
   - icon: envelope
     icon_pack: fas
@@ -34,4 +33,4 @@ user_groups:
   - Visitors
 highlight_name: true
 ---
-Yi Wang is a pre-doctoral research associate at International Center for Finance in Yale School of Management. She received her master's degree from New York University and bachelor's degree from Wuhan University. She has strong interests in FinTech and Empirical Asset Pricing. Currently, she is working with Professors William Goetzmann, Alexander Zentefis, and Song Ma, from who she learned lots of knowledge and skills. Yi Wang will apply for Ph.D. programs staring from Fall 2022.
+Yi Wang is a pre-doctoral research associate at Yale School of Management. She received her master's degree from New York University and bachelor's degree from Wuhan University. She has strong interests in FinTech especially the financial innovation inspired by information technology (e.g. crowdfunding, peer-to-peer lending, online brokerage platform) as well as the transformative power of blockchain (e.g. decentralized fiance, cryptocurrency assets and stable coin) and artificial intelligence (e.g. robo-advisor, machine learning and big data in finance). Currently, she is working with Professors Liangfei Qiu, Alexander Zentefis, and Song Ma, from who she learned lots of knowledge and skills. Yi Wang will apply for Ph.D. programs staring from Fall 2022.
